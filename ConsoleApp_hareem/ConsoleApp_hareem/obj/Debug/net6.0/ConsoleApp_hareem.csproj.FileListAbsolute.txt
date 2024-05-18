@@ -1,0 +1,14 @@
+C:\Users\asp\Desktop\ConsoleApp_hareem\ConsoleApp_hareem\bin\Debug\net6.0\ConsoleApp_hareem.exe
+C:\Users\asp\Desktop\ConsoleApp_hareem\ConsoleApp_hareem\bin\Debug\net6.0\ConsoleApp_hareem.deps.json
+C:\Users\asp\Desktop\ConsoleApp_hareem\ConsoleApp_hareem\bin\Debug\net6.0\ConsoleApp_hareem.runtimeconfig.json
+C:\Users\asp\Desktop\ConsoleApp_hareem\ConsoleApp_hareem\bin\Debug\net6.0\ConsoleApp_hareem.dll
+C:\Users\asp\Desktop\ConsoleApp_hareem\ConsoleApp_hareem\bin\Debug\net6.0\ConsoleApp_hareem.pdb
+C:\Users\asp\Desktop\ConsoleApp_hareem\ConsoleApp_hareem\obj\Debug\net6.0\ConsoleApp_hareem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asp\Desktop\ConsoleApp_hareem\ConsoleApp_hareem\obj\Debug\net6.0\ConsoleApp_hareem.AssemblyInfoInputs.cache
+C:\Users\asp\Desktop\ConsoleApp_hareem\ConsoleApp_hareem\obj\Debug\net6.0\ConsoleApp_hareem.AssemblyInfo.cs
+C:\Users\asp\Desktop\ConsoleApp_hareem\ConsoleApp_hareem\obj\Debug\net6.0\ConsoleApp_hareem.csproj.CoreCompileInputs.cache
+C:\Users\asp\Desktop\ConsoleApp_hareem\ConsoleApp_hareem\obj\Debug\net6.0\ConsoleApp_hareem.dll
+C:\Users\asp\Desktop\ConsoleApp_hareem\ConsoleApp_hareem\obj\Debug\net6.0\refint\ConsoleApp_hareem.dll
+C:\Users\asp\Desktop\ConsoleApp_hareem\ConsoleApp_hareem\obj\Debug\net6.0\ConsoleApp_hareem.pdb
+C:\Users\asp\Desktop\ConsoleApp_hareem\ConsoleApp_hareem\obj\Debug\net6.0\ConsoleApp_hareem.genruntimeconfig.cache
+C:\Users\asp\Desktop\ConsoleApp_hareem\ConsoleApp_hareem\obj\Debug\net6.0\ref\ConsoleApp_hareem.dll
