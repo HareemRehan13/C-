@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fdBHN9v/Bv4FnhpXD+a8Gd34r5C/n2Q7lMtHL98NXCw9xbKEaTlB1qaD/W3rZYGGydmEjOH1Nx4tg82LeKK4hw==",
+  "dgSpecHash": "iAIRw8uEXMv49sfEb92rX71e7S+QOC8qRSZ+aydIwDpAZ8cARQHQ7mPAZrsIKygapclEqnCGcugbQhCO6Nx5ig==",
   "success": true,
-  "projectFilePath": "C:\\Users\\asp\\Documents\\2212B1\\C#\\MVC\\30 May 2024\\WpfApp1\\WpfApp1\\WpfApp1.csproj",
+  "projectFilePath": "C:\\Users\\asp\\Desktop\\c-\\WpfApp1\\WpfApp1\\WpfApp1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\asp\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\asp\\.nuget\\packages\\azure.identity\\1.11.3\\azure.identity.1.11.3.nupkg.sha512",
